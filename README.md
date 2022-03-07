@@ -3,7 +3,7 @@
 I followed a tutorial by the talented Ania Kubow, 
 for me the purpose was to get familiar with/learn more about JS.
 
-Modifications have been added to improve UX: 
+Modifications to improve UX: 
 - re-shuffle the card array after all cards were found, so that user can continue with the game;
 
 - disabled the "click" event on the matched cards so user cannot click on them to reveal the cards again; 
